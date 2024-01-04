@@ -1,1 +1,53 @@
-A
+Brief Background
+
+      Having 6 years of relevant experience working as
+      AWS consultant, Cloud Engineer, Cloud security analyst, Cloud Infra engineer, laC developer and AWS Devops consultant.
+
+Trainings and Certifications:
+    
+      AWS Solution Architect Associate from Amazon Web Services
+      AWS Security Specialty from AWS
+      Hashicorp Terraform Associate from Hashicorp
+      Azure Fundamental-AZ-900 Certification from Microsoft Azure.
+
+Tools / Skillsets: AWS
+
+      •  ComputingServices:EC2, ECS,Autoscaling,Lambda, Elastic Bean Stalk.
+      •  StorageServices: S3,EBS,EFS,AWS Backup,S3 Glacier.
+      •  Network Services : VPC, Route 53, CloudFront,API Gateway, VPC IP Address manager,
+      •  Management Services: AWS Control Tower, AWS Organization, CloudWatch, Cloud Trail, Service Catalog, AWS Config, System Manager.
+      .  Security & Identity: IAM, KMS, WAF, SHIELD,Certificate Manager, Secrets Manager, Security Hub, Detective, Guard duty, Inspector, Macie, Firewall Manger 
+      .  Application & Dev : SQS, SNS, Step Functions, Event Bridge, Code commit ,Code Build, CodeDeploy, Code pipeline, Code star connections.
+      •  Automation :Terraform, CloudFormation & Ansible.
+      •  CICD :Jenkins, Code pipeline, Git labs.
+      •  Version Control :Git, Code Commit, Bit Bucket.
+      •  Monitoring :Grafana, Kibana, New Relic, Cloud Watch
+      .  Management :Azure DevOps, Atlassian and Confluence.
+      •  OS/Containers :Linux, Windows, Docker.
+
+Educational Background:
+
+        Bachelor of Technology in Computer Science and Engineering- 2019
+
+Recent Engagement Highlights: Key highlights of his AWS Consultant /Cloud security experience/expertise
+
+          Participated in planning, implementation and growth of our infrastructure on Amazon Web Services.
+          Managed Network security using Load Balancer, Auto Scaling, Security Group and Network access control list.
+          Defined and deployed monitoring, metrics, and logging systems on AWS.
+          Provisioned the environment using Terraform open source and using Cloud Formation.
+          Migrated the applications from other vendor to AWS cloud using lambda
+          Expertise on AWS Glue platform for creating ETL jobs and integrations.
+          Have worked on the configuring the VPC, Nat gateway, Internet Gateway and subnet creation and route table configuration.
+          Expertise in configuring the storage services like S3, EFS.
+          Expertise in DNS service ROUTE 53 like, creating the records and configuring the routing policy.
+          Experienced in working with Security division to design and manage IAM roles for users, vendors and other third-party vendors.
+          Experienced in working with software developers, security experts, to design and build applications within AWS.
+          Developed and managed AWS Control Tower Landing zone for a multi account environment.
+          Managed AWS Organization for creating different Organization units for different environment.
+          Developed and managed the AWS AFT - Account Factory for Terraform for New account creation and Account Customization.
+          Developed and managed Firewall Manager Policy for enterprise level to protect ELB,API Gateway and ClouFront across member accounts from Audit account in Control Tower.
+          Created and Managed Centralized Security Hub in Audit account, by making it has a delegated Administrator.
+          Expertise in Creating security posture Architecture for AWS workloads.
+          Worked on various Security remediations and security gaps in a existing environment to improve the security.
+
+
